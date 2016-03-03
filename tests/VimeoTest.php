@@ -2,7 +2,6 @@
 namespace MrPrompt\Silex\Tests;
 
 use MrPrompt\Silex\Vimeo;
-use Mockery;
 use PHPUnit_Framework_TestCase;
 use Silex\Application;
 
