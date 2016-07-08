@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "28218bd511d25a9ee6f58493183661cb",
-    "content-hash": "4d974c4f1aaa5b91403d027f08b3e764",
+    "hash": "c0ed487f2e247c6ce1623b792cfcf5fb",
+    "content-hash": "82b4060dc571b8ce0343e5d47483c8e3",
     "packages": [
         {
             "name": "vimeo/vimeo-api",
