@@ -1,7 +1,7 @@
 <?php
-namespace MrPrompt\Silex\Tests;
+namespace SilexFriends\Vimeolex\Tests;
 
-use MrPrompt\Silex\Vimeo;
+use SilexFriends\Vimeo\Vimeo;
 use PHPUnit_Framework_TestCase;
 use Silex\Application;
 

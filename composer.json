@@ -1,16 +1,16 @@
 {
-  "name" : "mrprompt/silex-vimeo",
+  "name" : "SilexFriends/vimeo",
   "description" : "Silex Vimeo Provider",
   "license" : "GPLv3",
   "type": "library",
   "autoload" : {
     "psr-4" : {
-      "MrPrompt\\Silex\\": "src/"
+      "SilexFriends\\Vimeo\\": "src/"
     }
   },
   "autoload-dev" : {
     "psr-4" : {
-      "MrPrompt\\Silex\\Tests\\": "tests/"
+      "SilexFriends\\Vimeo\\Tests\\": "tests/"
     }
   },
   "authors" : [
